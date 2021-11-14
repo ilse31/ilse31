@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/829581469936386079/830470865190912081/K-Gif.gif" height="80px"/>
+</p>
+
 <h1 align="center">Hi 👋 There, I'm Ilham Prasetya</h1>
 <h3 align="center">I am from Pati Pucakwangi</h3>
 
