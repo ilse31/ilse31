@@ -15,5 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ilse31&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=ilse31&icon=4&color=10)](https://visitcount.itsvg.in)
+----------------
+----------------
+[![](https://visitcount.itsvg.in/api?id=ilse31&label=Profile%20Views&color=9&icon=9&pretty=true)](https://visitcount.itsvg.in)
