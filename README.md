@@ -1,6 +1,6 @@
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=ilse31)](https://holopin.io/@ilse31)
 # 💫 About Me:
-🔭 I’m currently Study At Dian Nuswantoro University<br>🌱 I’m currently learning Javascript, Typescript and Go
+🔭 <br>🌱 
 
 
 ## 🌐 Socials:
