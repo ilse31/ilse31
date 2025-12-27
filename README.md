@@ -8,14 +8,11 @@
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%3178C6)  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ilse31&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ilse31&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ilse31&layout=donut&hide=html,css,mdx&langs_count=8&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+### 📊 Github Stats
+<a href='https://github.com/ilse31/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/ilse31/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/ilse31/github-stats-transparent/output/generated/languages.svg)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ilse31&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+</a>
 
-----------------
-----------------
-[![](https://visitcount.itsvg.in/api?id=ilse31&label=Profile%20Views&color=9&icon=9&pretty=true)](https://visitcount.itsvg.in)
